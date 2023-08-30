@@ -4,5 +4,6 @@
     "project_description": "Somenthing cool",
     "project_author_name": "jrfigital",
     "project_packages": ["All", "Minimal"],
-    "python_version": "3.10"
+    "python_version": "3.10",
+    "project_version": "0.1.0"
 }
